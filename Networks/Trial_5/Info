@@ -1,0 +1,5 @@
+Fri, 03 Aug 2018 19:16:19 +0000
+Delta Time : 1283.8425594647726min
+Trial_5
+Comments: (1/(ball_pos[0]+ball_vel[0]+.00000001)) added score reward added, learning rate .001, discount rate.95 
+
